@@ -119,16 +119,6 @@ One Final Advice :tophat:, Do not underestimate the realem you put a foot on, th
 </div>
 
 ## :chart_with_upwards_trend: Stats
-![](https://github-readme-stats.vercel.app/api?username=AhmedYousriSobhi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-
-<div>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AhmedYousriSobhi&theme=github-dark-blue&mode=weekly" alt="GitHub Streak" /></a>
-</div>
-
-### 🔝 Top Hands on Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedYousriSobhi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AhmedYousriSobhi&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <!--
@@ -145,4 +135,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 Icons repo: https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg
+![](https://github-readme-stats.vercel.app/api?username=AhmedYousriSobhi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
+### 🔝 Top Hands on Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedYousriSobhi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 -->
