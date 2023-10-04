@@ -27,6 +27,10 @@ One Final Advice :tophat:, Do not underestimate the realem you put a foot on, th
   <img src="https://media.tenor.com/yDqPzCEhbMkAAAAC/spider-man-spiderman.gif" width="500"/>
 </div>
 
+## ⚡ Fun fact
+- Embedded System Engineer in the Heart 🫶🏻
+- Started learning to swim at age of 0b11011 🏊‍♂️ 🥽
+
 ## 💻 Weapons Stack
 #### Languages
 <div>
@@ -126,10 +130,6 @@ One Final Advice :tophat:, Do not underestimate the realem you put a foot on, th
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AhmedYousriSobhi&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-## ⚡ Fun fact
-- Embedded System Engineer in the Heart 🫶🏻
-- Started learning to swim at age of 0b11011 🏊‍♂️ 🥽
 
 <!--
 **AhmedYousriSobhi/AhmedYousriSobhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
