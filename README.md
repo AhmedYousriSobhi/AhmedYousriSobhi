@@ -32,7 +32,6 @@ One Final Advice :tophat:, Do not underestimate the realem you put a foot on, th
 - Started learning to swim at age of 0b11011 🏊‍♂️ 🥽
 
 ## 💻 Weapons Stack
-#### Languages
 <div>
   <a href="https://www.python.org/"> </a>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -44,10 +43,6 @@ One Final Advice :tophat:, Do not underestimate the realem you put a foot on, th
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/2560px-Markdown-mark.svg.png" title="c" alt="c" width="40" height="40"/>&nbsp;
   <a href="https://www.latex-project.org/"> </a>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/2560px-LaTeX_logo.svg.png" title="c" alt="c" width="40" height="40"/>&nbsp;
-</div>
-
-#### ML/DL
-<div>
   <a href="https://scikit-learn.org/stable/"></a>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" title="Scikit_learn" **alt="Scikit_learn" width="40" height="40"/>
   <a href="https://www.tensorflow.org/"></a>
@@ -66,30 +61,18 @@ One Final Advice :tophat:, Do not underestimate the realem you put a foot on, th
   <img src="https://matplotlib.org/2.0.1/_static/logo2.svg" title="matplotlib" **alt="matplotlib" width="40" height="40"/>
   <a href="https://seaborn.pydata.org/"></a>
   <img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-wide-lightbg.svg" title="seaborn" **alt="seaborn" width="40" height="40"/>
-</div>
-
-#### FRAMEWORKS, PLATFORMS & LIBRARIES
-<div>
   <a href="https://www.anaconda.com/"> </a>
   <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="anaconda" **alt="anaconda" width="40" height="40"/>
   <a href="https://jupyter.org/"></a>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="jupyter" **alt="jupyter" width="40" height="40"/>
   <a href="https://code.visualstudio.com/"></a>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" **alt="vscode" width="40" height="40"/>
-</div>
-
-#### SERVERS
-<div>
-   <a href="https://aws.amazon.com/"></a>
+  <a href="https://aws.amazon.com/"></a>
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <a href="https://aws.amazon.com/sagemaker/"></a>
   <img src="https://assets.website-files.com/5f6bc60e665f54db361e52a9/5f6bc60e665f54b6261e5408_logo_sagemaker_gt.png" title="AWS_Sagemaker" alt="AWS_Sagemaker" width="40" height="40"/>&nbsp;
   <a href="https://colab.google/"></a>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1200px-Google_Colaboratory_SVG_Logo.svg.png" title="Google_Colaboratory" alt="Google_Colaboratory" width="40" height="40"/>&nbsp;
-</div>
-
-#### DATABASES
-<div>
   <a href="https://www.mysql.com/"></a>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <a href="https://mariadb.org/"></a>
@@ -98,16 +81,8 @@ One Final Advice :tophat:, Do not underestimate the realem you put a foot on, th
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="postgresql" **alt="postgresql" width="40" height="40"/>
   <a href="https://www.sqlite.org/index.html"></a>
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="sqlite" **alt="sqlite" width="40" height="40"/>
-</div>
-
-#### DevOps
-<div>
   <a href="https://www.docker.com/"></a>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="docker" **alt="docker" width="40" height="40"/>
-</div>
-
-#### OTHER
-<div>
    <a href="https://git-scm.com/"></a>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <a href="https://www.linux.org/"></a>
