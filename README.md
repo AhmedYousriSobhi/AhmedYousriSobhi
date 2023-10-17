@@ -13,7 +13,7 @@
 # 💫 WHO AM I?
 Hello Travelers! Glad to see these spirits of you, you ask who am i?
 
-A humble traveler with a cape walking :feet: in the this unknown realm; The AI realm ⛰️
+A humble traveler with a cape walking :feet: in this unknown realm; The AI realm ⛰️
 
 Seeking what you say? It's a hard question you know, and you should have an answer for yourself first, but I'll tell you mine; I love to be aware of everything and specialized in something, so I walking and wondering about what beyond the horizon of our eyes.
 
