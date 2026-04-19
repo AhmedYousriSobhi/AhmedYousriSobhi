@@ -95,8 +95,10 @@ One Final Advice :tophat:, Do not underestimate the realem you put a foot on, th
 </div>
 -->
 
+<!--
 ## :chart_with_upwards_trend: Stats
 ![](https://github-contributor-stats.vercel.app/api?username=AhmedYousriSobhi&limit=5&theme=dark&combine_all_yearly_contributions=true)
+-->
 
 <!--
 **AhmedYousriSobhi/AhmedYousriSobhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
