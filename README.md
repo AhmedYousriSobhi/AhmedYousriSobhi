@@ -31,6 +31,7 @@ One Final Advice :tophat:, Do not underestimate the realem you put a foot on, th
 - Embedded System Engineer in the Heart 🫶🏻
 - Started learning to swim at age of 0b11011 🏊‍♂️ 🥽
 
+<!--
 ## 💻 Weapons Stack
 <div>
   <a href="https://www.python.org/"> </a>
@@ -92,6 +93,7 @@ One Final Advice :tophat:, Do not underestimate the realem you put a foot on, th
   <a href="https://cmake.org/"></a>
   <img src="https://www.vectorlogo.zone/logos/cmake/cmake-ar21.png" title="arduino" **alt="arduino" width="40" height="40"/>
 </div>
+-->
 
 ## :chart_with_upwards_trend: Stats
 ![](https://github-contributor-stats.vercel.app/api?username=AhmedYousriSobhi&limit=5&theme=dark&combine_all_yearly_contributions=true)
