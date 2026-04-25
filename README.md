@@ -86,7 +86,9 @@ Currently pushing toward full LLMOps: RAG pipelines, model registries, and makin
 
 </div>
 
+<!--
 > 📌 **Pin your best 6 repos** directly on GitHub (Profile → Customize your pins). The cards above just supplement — pinned repos are what recruiters actually click.
+-->
 
 ---
 
