@@ -1,32 +1,116 @@
-<div id="badges" align="center">
-  <h3 style="text-align: center;">This is Ahmed Yousri Sobhi</h3>
-  <a href="https://www.linkedin.com/in/ahmedyousrisobhi/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-  <a href="https://www.datacamp.com/portfolio/ahmedyousrisobhi">
-  <img src="https://img.shields.io/badge/Datacamp-default?style=for-the-badge&logo=Datacamp&logoColor=white" alt="Datacamp Badge"/></a>
-  <a href="https://leetcode.com/ahmedyousrisobhi/">
-  <img src="https://img.shields.io/badge/Leetcode-black?style=for-the-badge&logo=Leetcode&logoColor=white" alt="Leetcode Badge"/></a>
-  <a href="https://www.hackerrank.com/ahmedyousrisobhi">
-  <img src="https://img.shields.io/badge/Hackerrank-darkgreen?style=for-the-badge&logo=Hackerrank&logoColor=white" alt="Hackerrank Badge"/></a>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=750&lines=Ahmed+Yousri+Sobhi;HPC+Systems+%E2%86%92+MLOps+Engineer;1%2C500%2B+GPU+Nodes+Operated;LLM+Inference+%7C+Distributed+Training+%7C+Kubernetes" alt="Typing header" />
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedyousrisobhi/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedyousrisobhi@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/ahmedyousrisobhi/)
+
 </div>
 
-# 💫 WHO AM I?
-Hello Travelers! Glad to see these spirits of you, you ask who am i?
+---
 
-A humble traveler with a cape walking :feet: in this unknown realm; The AI realm ⛰️
+I'm an ML Engineer who ended up running GPU infrastructure at a scale most ML people only read about. That path wasn't planned — it happened because the problems at the systems layer turned out to be more interesting than I expected.
 
-Seeking what you say? It's a hard question you know, and you should have an answer for yourself first, but I'll tell you mine; I love to be aware of everything and specialized in something, so I walking and wondering about what beyond the horizon of our eyes.
+Right now I work at the edge of HPC and MLOps: I've kept 1,500+ GPU nodes running in production (H100, H200, AMD MI210, DGX SuperPod), handled distributed training verification for DeepSpeed ZeRO and FSDP workloads, and built the tooling teams actually use — not the polished kind, the kind that fixes a broken GPU reporting pipeline at 2am before a client review.
 
-How I get here you ask? HOW DID YOU GET HERE I MAY ASK YOU FIRST? My answer is hard to be explained and ambigous to be understood, I'm not underestimate your intelligence, but it is not related to intelligence even if we are in the realm of Artificail Intelligece itself.
+Currently pushing toward full LLMOps: RAG pipelines, model registries, and making inference actually deployable at scale.
 
-One Final Advice :tophat:, Do not underestimate the realem you put a foot on, this realem can not called using "it".
+---
 
-## :writing_hand: Blog Posts
-<div id="header">
-  <a href="https://github.com/AhmedYousriSobhi/aCupOfTea">
-  <img src="https://media.tenor.com/yDqPzCEhbMkAAAAC/spider-man-spiderman.gif" width="500"/>
+## What I Work With
+
+<div align="center">
+
+**Core Languages & Tools**
+
+[![Skills](https://skillicons.dev/icons?i=python,bash,linux,git,docker,kubernetes&theme=dark)](https://skillicons.dev)
+
+**ML & Data Stack**
+
+[![Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,aws&theme=dark)](https://skillicons.dev)
+
+**Infrastructure & Monitoring**
+
+[![Skills](https://skillicons.dev/icons?i=grafana,ansible,redis&theme=dark)](https://skillicons.dev)
+
 </div>
 
-## ⚡ Fun fact
-- Embedded System Engineer in the Heart 🫶🏻
-- Started learning to swim at age of 0b11011 🏊‍♂️ 🥽
+| Domain | Tools |
+|--------|-------|
+| **HPC Scheduling** | SLURM, GRES, sacct/sacctmgr, NVIDIA BCM, AWX/Ansible |
+| **Distributed Training** | DeepSpeed ZeRO (1/2/3), FSDP, multi-node GPU setups |
+| **LLM Inference** | Ollama, model serving, API workflows, GPU-aware env setup |
+| **Cluster Storage** | DDN Lustre, parallel I/O, Singularity, containerized workloads |
+| **Benchmarking** | HPL, RCCL, STREAM, CUDA benchmarks, Intel MPI |
+| **ML Modeling** | Prophet, LSTM, XGBoost, CNNs, SageMaker pipelines |
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AhmedYousriSobhi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedYousriSobhi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="Top languages"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=AhmedYousriSobhi&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedYousriSobhi&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" width="100%"/>
+
+</div>
+
+---
+
+## Projects Worth Looking At
+
+<!-- 
+  HOW TO UPDATE THIS SECTION:
+  Replace REPO_NAME below with your actual repository names.
+  The cards pull live data automatically — no manual updates needed.
+-->
+
+<div align="center">
+
+[![LLM Inference Guide](https://github-readme-stats.vercel.app/api/pin/?username=AhmedYousriSobhi&repo=aCupOfTea&theme=tokyonight&hide_border=true)](https://github.com/AhmedYousriSobhi/aCupOfTea)
+
+</div>
+
+> 📌 **Pin your best 6 repos** directly on GitHub (Profile → Customize your pins). The cards above just supplement — pinned repos are what recruiters actually click.
+
+---
+
+## Currently Building
+
+- **RAG pipeline** — local LLM inference with retrieval, no cloud API dependency  
+- **GPU utilization reporter** — accurate per-user consumption from SLURM GRES records (generalizing the fix I built for production)  
+- Finishing my MS in Electrical Engineering (AI track) at Ain Shams University
+
+---
+
+## Background
+
+- **BrightSkies / Core42 (G42)** — Senior HPC Systems Engineer, Azure H100/H200/MI210 clusters (Abu Dhabi)  
+- **BrightSkies / SDAIA** — Sole technical owner, 60-node DGX H100 SuperPod (Riyadh)  
+- **BrightSkies / KAUST** — HPC support + LLM inference tooling for research clusters  
+- **elmenus** — Data Scientist, demand forecasting and operational ML  
+- **Omdena** — ML Engineer, applied projects in computer vision and time-series forecasting  
+- BSc Electrical Engineering, Alexandria University — GPA 3.4, Very Good with Honours
+
+---
+
+<div align="center">
+
+*Alexandria, Egypt — open to remote and hybrid roles*
+
+</div>
