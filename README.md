@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=750&lines=Ahmed+Yousri+Sobhi;HPC+Systems+%E2%86%92+AI Infrastructure+Engineer;1%2C500%2B+GPU+Nodes+Operated;LLM+Inference+%7C+Distributed+Training+%7C+Kubernetes" alt="Typing header" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=750&lines=Ahmed+Yousri+Sobhi;HPC+Systems+%E2%86%92+AI+Infrastructure+Engineer;1%2C500%2B+GPU+Nodes+Operated;LLM+Inference+%7C+Distributed+Training+%7C+Kubernetes" alt="Typing header" />
 
 <br/>
 
