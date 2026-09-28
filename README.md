@@ -1,118 +1,57 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/terminal-banner.svg" width="100%" alt="Terminal: Ahmed Yousri Sobhi — HPC Systems Engineer → AI Infrastructure."/>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=750&lines=Ahmed+Yousri+Sobhi;Senior+HPC+Systems+%E2%86%92+AI+Infrastructure+Engineer;1%2C500%2B+GPU+Nodes+Operated;LLLM+Inference+%7C+Distributed+Training+%7C+Kubernetes" alt="Typing header" />
+<h3 align="center">A traveller in AI: I dug to the core of models, then out through the machines that hold it up.</h3>
+
+<p align="center">
+  Senior HPC Systems Engineer → AI Infrastructure &amp; LLMOps · Alexandria, Egypt<br/>
+  <a href="https://www.linkedin.com/in/ahmedyousrisobhi/">LinkedIn</a> ·
+  <a href="mailto:ahmedyousrisobhi@gmail.com">Email</a> ·
+  <a href="https://leetcode.com/ahmedyousrisobhi/">LeetCode</a>
+</p>
+
+<p align="center">
+  <img src="./assets/tunnel-map.svg" width="100%" alt="A fantasy map of my journey: down from Alexandria (electrical engineering) through ITI and Tekomoro into the core of models and data (elmenus, Omdena), then back up through KAUST, ESPRIT and SDAIA to Core42 at the silicon. Next: LLMOps."/>
+</p>
+
+<h3 align="center">🏆 Treasures found along the way</h3>
+
+<table align="center">
+  <tr>
+    <td align="center" width="25%"><h2>1,500+</h2>GPU nodes under watch</td>
+    <td align="center" width="25%"><h2>60</h2>SuperPod nodes, solo</td>
+    <td align="center" width="25%"><h2>99%+</h2>availability, 24/7</td>
+    <td align="center" width="25%"><h2>5+ yrs</h2>from data to data center</td>
+  </tr>
+</table>
+
+<p align="center">
+  <b>🎒 In my pack:</b> SLURM · Kubernetes · NVIDIA BCM · DeepSpeed · FSDP · PyTorch · DDN Lustre · Ollama · Python
+</p>
+
+<p align="center">
+  <b>🗺️ Here be LLMOps:</b> now forging a local RAG pipeline and writing <a href="https://github.com/AhmedYousriSobhi/aCupOfTea">aCupOfTea</a>, a traveller's guide to LLM inference.<br/>
+  <b>Seeking fellow travellers:</b> open to AI infrastructure and LLMOps roles, remote or hybrid.
+</p>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedyousrisobhi/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedyousrisobhi@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/ahmedyousrisobhi/)
+<details>
+<summary><b>📜 Read the full chronicle</b></summary>
+<br/>
 
-</div>
+| | Stop | What I did there |
+|---|---|---|
+| ⛰️ | **Alexandria University** · 2019 | Electrical engineering: where the road began, at the silicon |
+| 🔥 | **ITI & Tekomoro** · 2021 | AI program, then 3D perception from stereo cameras (pseudo-LiDAR, KITTI) |
+| 🟡 | **elmenus** · 2022 | Forecast a city's hunger hour by hour: 82% accuracy, 10% better delivery-time estimates |
+| 🟡 | **Omdena** · 2023 | Face & emotion models for children's well-being; forecasts for extreme weather |
+| 🔥 | **KAUST** · 2023 | Kept researchers' runs alive: DeepSpeed ZeRO, FSDP, self-hosted LLM inference |
+| 🏰 | **ESPRIT** · 2024 | Raised a DGX A100 cluster from bare metal and handed over the keys |
+| 🏰 | **SDAIA** · 2025 | Sole warden of a 60-node DGX H100 SuperPod: SLURM, Kubernetes, Lustre |
+| ⛰️ | **Core42 (G42)** · now | 1,500+ GPU nodes across five fleets: H100, H200, MI210, DGX/HGX |
 
----
+<sub>⛰️ silicon · 🏰 clusters · 🔥 training · 🟡 the core &nbsp;|&nbsp; MSc Computer & Systems Engineering, Ain Shams University (in progress)</sub>
 
-I'm an ML Engineer who ended up running GPU infrastructure at a scale most ML people only read about. That path wasn't planned — it happened because the problems at the systems layer turned out to be more interesting than I expected.
-
-Right now I work at the edge of HPC and MLOps: I've kept 1,500+ GPU nodes running in production (H100, H200, AMD MI210, DGX SuperPod), handled distributed training verification for DeepSpeed ZeRO and FSDP workloads, and built the tooling teams actually use — not the polished kind, the kind that fixes a broken GPU reporting pipeline at 2am before a client review.
-
-Currently pushing toward full LLMOps: RAG pipelines, model registries, and making inference actually deployable at scale.
-
----
-
-## What I Work With
-
-<div align="center">
-
-**Core Languages & Tools**
-
-[![Skills](https://skillicons.dev/icons?i=python,bash,linux,git,docker,kubernetes&theme=dark)](https://skillicons.dev)
-
-**ML & Data Stack**
-
-[![Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,aws&theme=dark)](https://skillicons.dev)
-
-**Infrastructure & Monitoring**
-
-[![Skills](https://skillicons.dev/icons?i=grafana,ansible,redis&theme=dark)](https://skillicons.dev)
-
-</div>
-
-| Domain | Tools |
-|--------|-------|
-| **HPC Scheduling** | SLURM, GRES, sacct/sacctmgr, NVIDIA BCM, AWX/Ansible |
-| **Distributed Training** | DeepSpeed ZeRO (1/2/3), FSDP, multi-node GPU setups |
-| **LLM Inference** | Ollama, model serving, API workflows, GPU-aware env setup |
-| **Cluster Storage** | DDN Lustre, parallel I/O, Singularity, containerized workloads |
-| **Benchmarking** | HPL, RCCL, STREAM, CUDA benchmarks, Intel MPI |
-| **ML Modeling** | Prophet, LSTM, XGBoost, CNNs, SageMaker pipelines |
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AhmedYousriSobhi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedYousriSobhi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="Top languages"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=AhmedYousriSobhi&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedYousriSobhi&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" width="100%"/>
-
-</div>
-
----
-
-## Projects Worth Looking At
-
-<!-- 
-  HOW TO UPDATE THIS SECTION:
-  Replace REPO_NAME below with your actual repository names.
-  The cards pull live data automatically — no manual updates needed.
--->
-
-<div align="center">
-
-[![LLM Inference Guide](https://github-readme-stats.vercel.app/api/pin/?username=AhmedYousriSobhi&repo=aCupOfTea&theme=tokyonight&hide_border=true)](https://github.com/AhmedYousriSobhi/aCupOfTea)
-
-</div>
-
-<!--
-> 📌 **Pin your best 6 repos** directly on GitHub (Profile → Customize your pins). The cards above just supplement — pinned repos are what recruiters actually click.
--->
-
----
-
-## Currently Building
-
-- **RAG pipeline** — local LLM inference with retrieval, no cloud API dependency  
-- **GPU utilization reporter** — accurate per-user consumption from SLURM GRES records (generalizing the fix I built for production)  
-- Finishing my MS in Electrical Engineering (AI track) at Ain Shams University
-
----
-
-## Background
-
-- **BrightSkies / Core42 (G42)** — Senior HPC Systems Engineer, Azure H100/H200/MI210 clusters (Abu Dhabi)  
-- **BrightSkies / SDAIA** — Sole technical owner, 60-node DGX H100 SuperPod (Riyadh)  
-- **BrightSkies / KAUST** — HPC support + LLM inference tooling for research clusters  
-- **elmenus** — Data Scientist, demand forecasting and operational ML  
-- **Omdena** — ML Engineer, applied projects in computer vision and time-series forecasting  
-- BSc Electrical Engineering, Alexandria University — GPA 3.4, Very Good with Honours
-
----
-
-<div align="center">
-
-*Alexandria, Egypt — open to remote and hybrid roles*
-
-</div>
+</details>
