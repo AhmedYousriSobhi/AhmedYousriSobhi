@@ -8,8 +8,8 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">Ahmed Yousri Sobhi&#39;s GitHub Stats, Rank: B+</title>
-        <desc id="descId">Total Stars Earned: 10, Total Commits  : 1262, Total PRs: 156, Total Issues: 144, Contributed to (last year): 2</desc>
+        <title id="titleId">Ahmed Yousri Sobhi&#39;s GitHub Stats, Rank: B-</title>
+        <desc id="descId">Total Stars Earned: 10, Total Commits  : 926, Total PRs: 32, Total Issues: 56, Contributed to (last year): 2</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 120.17418217732168;
+        stroke-dashoffset: 168.02891376624174;
       }
     }
   
@@ -184,7 +184,7 @@
         x="224.01"
         y="12.5"
         data-testid="commits"
-      >1.3k</text>
+      >926</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -199,7 +199,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >156</text>
+      >32</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -214,7 +214,7 @@
         x="224.01"
         y="12.5"
         data-testid="issues"
-      >144</text>
+      >56</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
